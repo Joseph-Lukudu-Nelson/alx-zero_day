@@ -1,1 +1,1 @@
-“my second commit”
+“my learnning is cool wtih alx”
